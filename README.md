@@ -95,17 +95,9 @@ I enjoy reading books, experimenting with AI tools, and constantly challenging m
 
 ---
 
-### 📊 GitHub Stats
-
-
-![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushehe&show_icons=true&theme=radical)
-
-
----
-
 ### 🔗 Connect with me
 
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/aarushi-agarwal-49234b265/) • [GitHub](https://github.com/aarushehe/)
 
 ---
 
